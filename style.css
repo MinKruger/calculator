@@ -1,0 +1,31 @@
+body{
+    background: url("img/background.png") center top no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#head{
+    padding-top: 15%;
+}
+
+#body{
+    width: 70%;
+    background: white;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    padding-left: 30%;
+}
+
+#font{
+    color: black;
+}
+
+h1{
+    color: white;
+    padding-left: 35%;
+}
+
+label, input {
+    display: table-cell;
+}
