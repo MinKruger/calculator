@@ -1,2 +1,4 @@
-# calculator
-Another non-professional project
+# Calculator
+Another non-professional project for university;
+
+A Compound Interest Calculator.
